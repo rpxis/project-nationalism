@@ -5,6 +5,9 @@ const Home = () => {
       <div className='container-conteudo'>
         <div className="texts">
           <p className="paragraphs">
+              O Nacionalismo Brasileiro deixou uma marca indelével na cultura do país, influenciando várias formas de expressão artística. Na literatura, destacam-se obras como <a href="https://www.todamateria.com.br/os-sertoes-de-euclides-da-cunha/">"Os Sertões" (1902)</a>, de <a href="https://pt.wikipedia.org/wiki/Euclides_da_Cunha">Euclides da Cunha</a>, que retrata a Guerra de Canudos, e <a href="https://pt.wikipedia.org/wiki/Macunaíma">"Macunaíma" (1928)</a>, de <a href="https://pt.wikipedia.org/wiki/Mário_de_Andrade">Mário de Andrade</a>, uma sátira que aborda as raízes culturais brasileiras.
+          </p>
+          <p className="paragraphs">
             Os hinos cívicos brasileiros, como o Hino Nacional Brasileiro, o Hino da Independência e o Hino à Bandeira, são expressões musicais do sentimento de patriotismo e identidade nacional.
           </p>
           <div className="image-brazil">
